@@ -1,4 +1,4 @@
 INITIAL TEXT FILE
 
 
-1st file!
+This is an initial file which is in the text format.
